@@ -1,6 +1,7 @@
 # PicturesSorter
 This is a bare winforms tool intending to visualize and compare two pictures at a time, and easily archive one of them (or both or none).
 I created that on return from a wonderful vacation of 3 weeks in the National Parks in Utah, bringing back thousands of exciting photographs...
+*This project has been merged with https://github.com/PhilippeRaemy/PhotoAlbum*
 
 ## Basic functionnalities are:
 * pick directory
